@@ -6,4 +6,3 @@ thoth-python
 thoth-solver
 thoth-storages
 toml
-
